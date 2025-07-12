@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+li {
+    list-style-type: square;
+}
+.special {
+    color:orange;
+    font-weight: bold;
+}
+li em {
+    color:purple
+}
